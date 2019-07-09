@@ -34,10 +34,10 @@ class Players {
                 winnerNumber = comparingPlayerNumber
             }
         }
-        return getNameOf(winner: winner, winnerNumber: winnerNumber)
+        return getName(of: winner, winnerNumber: winnerNumber)
     }
     
-    private func getNameOf(winner: Player, winnerNumber: Int?) -> String {
+    private func getName(of winner: Player, winnerNumber: Int?) -> String {
         guard let number = winnerNumber else {
             return "\(winner.role)"
         }
