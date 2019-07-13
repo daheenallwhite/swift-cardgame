@@ -4,10 +4,10 @@ Texas Holdem Poker Game 을 간단히 구현한 프로그램
 
 ![card game 실행 화면 screenshot](https://github.com/daheenallwhite/swift-cardgame/blob/daheenallwhite/images/card-game-1.png)
 
-1. [기능]()
-2. 구성
-3. 구현 과정 - 문제 & 해결
-4. 배운 점
+1. [기능](https://github.com/daheenallwhite/swift-cardgame#%EA%B8%B0%EB%8A%A5)
+2. [구성](https://github.com/daheenallwhite/swift-cardgame#%EA%B5%AC%EC%84%B1)
+3. [구현 과정 - 문제 & 해결](https://github.com/daheenallwhite/swift-cardgame#%EA%B5%AC%ED%98%84-%EA%B3%BC%EC%A0%95)
+4. [배운 점](https://github.com/daheenallwhite/swift-cardgame#%EB%B0%B0%EC%9A%B4-%EC%A0%90)
 
 &nbsp;
 
@@ -76,7 +76,7 @@ shuffle algorithm 구현 - **Fisher-Yates shuffle algorithm**
 
 - 무작위로 섞을 때 고려할 점 : 이미 선택된 항목이 또 뽑히지 않도록 선별
 - **뽑힐 대상 list** 와 **이미 뽑혀서 완료된 list** 로 나누어진다.
-- [shuffle 구현 내용]([https://github.com/daheenallwhite/swift-cardgame/tree/daheenallwhite/CardGame#suffle-%EA%B5%AC%ED%98%84---%EB%AC%B4%EC%9E%91%EC%9C%84-%EC%88%9C%EC%97%B4-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98](https://github.com/daheenallwhite/swift-cardgame/tree/daheenallwhite/CardGame#suffle-구현---무작위-순열-만드는-알고리즘))
+- [shuffle 구현 내용](https://github.com/daheenallwhite/swift-cardgame/tree/daheenallwhite/CardGame#suffle-%EA%B5%AC%ED%98%84---%EB%AC%B4%EC%9E%91%EC%9C%84-%EC%88%9C%EC%97%B4-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 
 ### 참가자 수 도메인값으로 추상화 하기 - NumberOfParticipant
 
