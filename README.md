@@ -8,6 +8,7 @@ Texas Holdem Poker Game 을 간단히 구현한 프로그램
 2. [구성](https://github.com/daheenallwhite/swift-cardgame#%EA%B5%AC%EC%84%B1)
 3. [구현 과정 - 문제 & 해결](https://github.com/daheenallwhite/swift-cardgame#%EA%B5%AC%ED%98%84-%EA%B3%BC%EC%A0%95)
 4. [배운 점](https://github.com/daheenallwhite/swift-cardgame#%EB%B0%B0%EC%9A%B4-%EC%A0%90)
+5. [step 진행하면서 정리한 내용](https://github.com/daheenallwhite/swift-cardgame/blob/daheenallwhite/CardGame/README.md)
 
 &nbsp;
 
