@@ -64,7 +64,7 @@ Texas Holdem Poker Game 을 간단히 구현한 프로그램
 
 ### Main Flow
 
-![](![](https://github.com/daheenallwhite/swift-cardgame/blob/daheenallwhite/images/sequence-diagram.jpg)
+![](https://github.com/daheenallwhite/swift-cardgame/blob/daheenallwhite/images/sequence-diagram.jpg)
 
 &nbsp;
 
