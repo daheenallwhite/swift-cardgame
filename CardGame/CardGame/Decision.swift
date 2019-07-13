@@ -10,8 +10,8 @@ import Foundation
 
 class Decision {
     static let lowest = Decision(highestRank: Card.Rank.ace, hand: Hands.highCard)
-    let highestRank: Card.Rank
-    let hand: Hands
+    private let highestRank: Card.Rank
+    private let hand: Hands
     
     init(highestRank: Card.Rank, hand: Hands) {
         self.highestRank = highestRank
